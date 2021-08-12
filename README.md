@@ -1,2 +1,2 @@
-# Python_project-2-VA_Steve-
-A virtual assistant made using python
+# Python
+This repository has some basic as well as some advance python projects
